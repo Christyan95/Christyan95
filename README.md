@@ -1,5 +1,6 @@
 ## Oii! Eu sou o Christyan Araujo Silva
 
+* 💻 Estudando Engenharia da Computação no IFTM
 
 <div align="center">
   <a href="https://github.com/Christyan95">
