@@ -1,11 +1,10 @@
-## Oii! Eu sou o Christyan Araujo Silva
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Christyan%20Araujo%20Silva&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30"> 
 
-* 💻 Estudando Engenharia da Computação no IFTM
+* 💻 Estudante de Engenharia da Computação no IFTM
 
 <div align="center">
-  <a href="https://github.com/Christyan95">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Christyan95&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christyan95&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Christyan95&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christyan95&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117"/>
 </div>
   
   
