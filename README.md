@@ -14,7 +14,7 @@
   <img align="center" alt="Christyan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Christyan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Christyan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Christyan-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/109772380/180492713-b0b60cd5-f356-4b53-b65d-e08e551613a8.jpeg">
+<!--   <img align="right" alt="Christyan-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/109772380/180492713-b0b60cd5-f356-4b53-b65d-e08e551613a8.jpeg"> -->
 </div>
 
 ##
