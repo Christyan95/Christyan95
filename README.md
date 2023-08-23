@@ -17,7 +17,7 @@
   <img align="right" alt="Christyan-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/109772380/180492713-b0b60cd5-f356-4b53-b65d-e08e551613a8.jpeg">
 </div>
 
-  ##
+##
 
 ### Ferramentas
 <div style="display: inline_block">
@@ -29,23 +29,22 @@
   <img align="center" alt="Christyan-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />   
 </div>
           
- ##
+##
 
- ### Estudando no momento
+### Estudando no momento
 <div style="display: inline_block">
   <img align="center" alt="Christyan-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />  
 </div>
 
-  ##
+##
 
-  ###Contato
+### Contato
 <div> 
   <a href="https://wa.me/qr/GSJ6Y6RXGYYCK1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/christyan_sv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/christyan_sv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:christyanctt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/christyan-silva-773b16195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Christyan95/Christyan95/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+
+![Snake animation](https://github.com/Christyan95/Christyan95/blob/output/github-contribution-grid-snake.svg)
