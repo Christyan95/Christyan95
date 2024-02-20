@@ -49,6 +49,12 @@
   <a href="https://www.linkedin.com/in/christyan-araujo-silva-773b16195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+##
+
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" /></h1>
+
+##
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christyan95/christyan95/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/christyan95/christyan95/output/github-contribution-grid-snake.svg">
