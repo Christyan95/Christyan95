@@ -1,10 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Christyan%20Araujo%20Silva&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30"> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:131369&height=150&section=header"/>
 
-* 💻 Estudante de Engenharia da Computação no IFTM
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Christyan+Araujo;I'm+21+years+old;I'm+from+Brazil;I'm+Studying+Computer+Engineering;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Christyan95&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christyan95&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Christyan95&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue_navy"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christyan95&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue_navy"/>
+</div>
+
+<div align="center"> 
+  <a href="https://wa.me/qr/GSJ6Y6RXGYYCK1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/christyan_sv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--   <a href="https://www.twitch.tv/christyan_sv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
+  <a href = "mailto:christyanctt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/christyan-araujo-silva-773b16195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
 ### Tecnologias
@@ -39,21 +47,8 @@
 </div>
 
 ##
-
-### Contato
-<div> 
-  <a href="https://wa.me/qr/GSJ6Y6RXGYYCK1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/christyan_sv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/christyan_sv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:christyanctt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/christyan-araujo-silva-773b16195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-##
-
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" /></h1>
-
-##
+<!--   
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00BFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" /></h1>
 
 <picture>
   <source
@@ -69,3 +64,13 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+## -->
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Christyan95}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:131369&height=150&section=footer"/>
