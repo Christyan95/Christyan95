@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:131369&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Meu+nome+é+Christyan+Silva;Tenho+22+anos;Sou+Brasileiro;Estudo+Engenharia+da+Computação;Seja+Bem-Vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Christyan+Silva;Tenho+22+anos;Sou+Brasileiro;Estudo+Engenharia+da+Computação;Seja+Bem-Vindo!)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Christyan95&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue_navy"/>
