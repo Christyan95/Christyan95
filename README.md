@@ -1,16 +1,16 @@
-![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=BAB8B5&height=100&section=header)
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=BAB8B5&height=150&section=header)
 
 &nbsp;
 
 <div align="center">
-  <img width="39%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Christyan95&show_icons=true&count_private=true&hide_border=true&title_color=ecf2f8&icon_color=0d1117&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
-  <img width="31%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Christyan95&layout=compact&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Christyan95&show_icons=true&count_private=true&hide_border=true&title_color=ecf2f8&icon_color=0d1117&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Christyan95&layout=compact&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 &nbsp;
 
-## Skills
-  
+##
+
 ### Tecnologias & Frameworks
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,java,kotlin,php,react,nextjs,nestjs,laravel)](https://skillicons.dev)
 
@@ -37,4 +37,4 @@
 
 &nbsp;
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=BAB8B5&height=100&section=footer)
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=BAB8B5&height=150&section=footer)
