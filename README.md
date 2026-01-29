@@ -1,5 +1,19 @@
 ![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=BAB8B5&height=150&section=header)
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=BAB8B5&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Christyan+Ara%C3%BAjo+Silva!" alt="Typing SVG" />
+  </a>
+  
+  <br/>
+  
+  <p>
+      🎓 Formado em Bacharelado em Engenharia da Computação | <strong>IFTM</strong>
+      <br/>
+      📚 Cursando Pós-graduação em Sistema da Informação | <strong>Faculeste</strong>
+  </p>
+</div>
+
 &nbsp;
 
 <div align="center">
