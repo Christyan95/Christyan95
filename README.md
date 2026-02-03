@@ -81,7 +81,8 @@ Sou **Engenheiro de Computação** movido pela construção de soluções que un
   
   <a href="https://www.linkedin.com/in/sachristyan03/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
   <a href = "mailto:chrisaraujo124@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+  <a href="https://portfolio-cas-three.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=operagx&logoColor=white">
+</a></div>
 
 
 
