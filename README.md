@@ -22,6 +22,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="icon" width="65" height="65" >
       </td>
       <td>
+          <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="65" height="65" />
+      </td>
+      <td>
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       </td>
       <td>
