@@ -72,6 +72,8 @@ Sou **Engenheiro de Computação** movido pela construção de soluções que un
 <div align="center">
   <img width="49%" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Christyan95&show_icons=true&count_private=true&hide_border=true&title_color=ecf2f8&icon_color=0d1117&text_color=FFFFFF&bg_color=0d1117" /> 
   <img width="40%" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Christyan95&layout=compact&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117" />
+  <br><br>
+  <img height="170" src="https://streak-stats.demolab.com?user=Christyan95&locale=pt-br&mode=daily&hide_border=true&background=0d1117&title_color=ecf2f8&text_color=FFFFFF&ring=ecf2f8&fire=ecf2f8&sideNums=FFFFFF&sideLabels=ecf2f8&dates=ecf2f8&currStreakNum=FFFFFF&border_radius=5" />
 </div>
 
 ---
