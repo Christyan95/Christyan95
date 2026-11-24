@@ -1,97 +1,66 @@
-![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=0B0993&height=175&section=header&text=Christyan%20Silva&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=30&desc=Dev%20Full-Stack&descAlignY=47&descAlign=70)
-
-
-
-&nbsp;
-
-
-
-<div style="display: flex; align-items: flex-start; align: center">
-  <table align="center">
-    <tr>
-      <td>
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td>
-         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      </td>
-      <td>
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="icon" width="65" height="65" >
-      </td>
-      <td>
-          <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="65" height="65" />
-      </td>
-      <td>
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="icon" width="65" height="65" />
-      </td> 
-      <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"  alt="icon" width="65" height="65" />
-      </td> 
-   </tr>
-  </table>
-</div>
-
-
-
-&nbsp;
-
-
-
-Sou **Engenheiro de Computação** movido pela construção de soluções que unem a robustez da infraestrutura à agilidade do desenvolvimento. Atuo na intersecção entre o **Suporte Estratégico** e o **Desenvolvimento de Software** com objetivo principal de eliminar processos manuais e transformar fluxos de trabalho através de automações inteligentes e aplicações web escaláveis.
-
-### 🎓 Formação & Evolução
-
-* **Bacharel em Engenharia da Computação** | *IFTM*
-* **Pós-graduando em Análise de Sistemas** | *Faculeste*
-* **Certificação Lean Six Sigma (Yellow Belt)** | *Focado em eficiência operacional*
-
-&nbsp;
-
-> *"A IA e a automação não substituem o talento humano, elas o potencializam para focar no que realmente importa: a inovação."*
-
-&nbsp;
-
-### 🧬 No meu Radar
-- **Desenvolvimento:** Criando aplicações web que integram diretamente com bancos de dados Oracle e Active Directory.
-- **Chatbots & IA:** Construindo fluxos de atendimento automatizados via n8n para otimizar o suporte ao cliente.
-
-
-
-&nbsp;
-
-
-
----
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:1f6feb&height=180&section=header&text=Christyan%20Silva&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=30&desc=Dev%20Full-Stack%20%7C%20Automa%C3%A7%C3%A3o%20e%20IA&descSize=18&descAlign=50&descAlignY=53)
 
 <div align="center">
-  <img width="49%" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Christyan95&show_icons=true&count_private=true&hide_border=true&title_color=ecf2f8&icon_color=0d1117&text_color=FFFFFF&bg_color=0d1117" /> 
-  <img width="40%" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Christyan95&layout=compact&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117" />
-  <br><br>
-  <img height="170" src="https://streak-stats.demolab.com?user=Christyan95&locale=pt-br&mode=daily&hide_border=true&background=0d1117&title_color=ecf2f8&text_color=FFFFFF&ring=ecf2f8&fire=ecf2f8&sideNums=FFFFFF&sideLabels=ecf2f8&dates=ecf2f8&currStreakNum=FFFFFF&border_radius=5" />
+  <a href="https://www.linkedin.com/in/sachristyan/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
+  </a>
+  <a href="https://christyansilva.vercel.app">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="mailto:chrisaraujo124@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<br />
+
+### Sobre mim
+
+Sou **Engenheiro de Computação** focado em construir **aplicações web escaláveis, automações ponta a ponta e pipelines com IA**. Combino engenharia de software full-stack com visão prática de infraestrutura corporativa e bancos de dados para eliminar gargalos operacionais e colocar sistemas críticos em produção com governança e previsibilidade.
+
+### O que eu construo na prática
+
+- **Engenharia Web Full-Stack:** Aplicações corporativas e SaaS com Next.js, React, TypeScript, Tailwind CSS e FastAPI, incluindo autenticação integrada a ecossistemas corporativos (Active Directory / Microsoft 365).
+- **Automação & Orquestração:** Fluxos automatizados de alto volume com **n8n**, APIs REST, webhooks, chatbots integrados a ERPs/GLPI e rotinas de validação em escala.
+- **IA Aplicada & Dados:** Processamento inteligente de documentos com modelos de visão (VLMs locais) e OCR, modelagem relacional rigorosa (**PostgreSQL, Oracle SQL, MySQL, Supabase**) e dashboards analíticos em Power BI.
+
+---
+
+### Stack Principal
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,py,fastapi,postgres,mysql,supabase,docker,git&perline=6" alt="Stack Principal" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge" alt="Oracle SQL" />
+  <img src="https://img.shields.io/badge/Local_LLMs_%2F_VLMs-1F6FEB?style=for-the-badge" alt="Local LLMs e VLMs" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" />
 </div>
 
 ---
 
+### Formação & Certificações
 
+- **Bacharel em Engenharia de Computação** — *IFTM*
+- **Pós-graduação em Análise de Sistemas** — *Faculeste*
+- **Pós-graduando em Perícia Cibernética** — *Faculeste*
+- **Lean Six Sigma — Yellow Belt** — *Eficiência operacional e melhoria contínua*
 
-<div align="center"> 
-  
-  ### 🤝Conecte-se Comigo
-  
-  <a href="https://www.linkedin.com/in/sachristyan03/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-  <a href = "mailto:chrisaraujo124@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://portfolio-christyan-cas.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=operagx&logoColor=white">
-</a></div>
+---
 
+### Métricas no GitHub
 
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Christyan95&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Christyan95&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" />
+  <br /><br />
+  <img height="165" src="https://streak-stats.demolab.com?user=Christyan95&locale=pt_BR&mode=daily&hide_border=true&background=0d1117&title_color=58a6ff&text_color=c9d1d9&ring=58a6ff&fire=58a6ff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&border_radius=6" alt="GitHub Streak" />
+</div>
 
-&nbsp;
-
-
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0B0993&height=175&section=footer)
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:1f6feb&height=110&section=footer)
